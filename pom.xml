@@ -39,7 +39,7 @@
         <awaitility.version>4.0.2</awaitility.version>
         <spring-cloud.version>2020.0.0</spring-cloud.version>
 
-        <docker.image.prefix>sfgbeerworks</docker.image.prefix>
+        <docker.image.prefix>prcompany</docker.image.prefix>
         <docker.image.name>${project.artifactId}</docker.image.name>
     </properties>
 
