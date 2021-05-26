@@ -37,7 +37,7 @@
         <jaxb.version>2.3.0</jaxb.version>
         <org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
         <awaitility.version>4.0.2</awaitility.version>
-        <spring-cloud.version>2020.0.0</spring-cloud.version>
+        <spring-cloud.version>2020.0.2</spring-cloud.version>
 
         <docker.image.prefix>prcompany</docker.image.prefix>
         <docker.image.name>${project.artifactId}</docker.image.name>
